@@ -4,7 +4,7 @@ This is a repository for the Automatic Zoom Meeting Scheduler with Email Integra
 
 ## Description
 
-The Automatic Zoom Meeting Scheduler with Email Integration is a Python-based application that automates the process of scheduling Zoom meetings and sending meeting invitations via email. It leverages the Zoom API and Gmail API to seamlessly handle meeting requests and automate the scheduling process.
+The Automatic Zoom Meeting Scheduler with Email Integration is a Python-based application that automates scheduling Zoom meetings and sending meeting invitations via email. It leverages the Zoom API and Gmail API to handle meeting requests and automate the scheduling process seamlessly.
 
 ## Features
 
